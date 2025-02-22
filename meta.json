@@ -1,23 +1,42 @@
 {
-    "News":{
-        "type":"HTML WEBSITE",
-        "raw":"https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/news.html",
-        "Date":"well idk"
+    "News": {
+        "type": "HTML WEBSITE",
+        "raw": "https://raw.githubusercontent.com/JV-lab-create/UPDATE_8923595624/refs/heads/main/news.html",
+        "Date": "well idk"
     },
-    "Screenshots":{
-        "data":["https://raw.githubusercontent.com/JV-lab-create/Hub_0/refs/heads/main/screenshots/1"],
-        "descriptions":["Live oak park in Westainhouse transit Roblox"]
+    "Screenshots": {
+        "data": [
+            "https://raw.githubusercontent.com/JV-lab-create/Hub_0/refs/heads/main/screenshots/1"
+        ],
+        "descriptions": [
+            "Live oak park in Westainhouse transit Roblox"
+        ]
     },
-    "config":{
-        "version":"1.5.3",
-        "NewsEnabled":true,
-        "ScreenshotsEnabled":true,
-        "UpdatorEnabled":false,
-        "Blacklist":["Myon_Animations2022"],
-        "Passcode":"UGFzc2NvZGVWZW50bw==",
-        "UnsupportedVersions":["1.0.0","1.0.1","1.0.2","1.0.3","1.4.1","1.2.1","1.4.2","1.0.1","1.2.1","1.2.2","1.2.3","1.5.2"],
-        "LastSupportedVersion":"1.5.2",
-        "UpdateLink":"https://www.roblox.com/games/8438907120/Under-Remodels-5th-Commerce-Tower",
-        "Support":"https://www.roblox.com/games/6275532991/Staff-pass-Elevator-Testing-OFFICIAL"
-    },
+    "config": {
+        "version": "1.5.3",
+        "NewsEnabled": true,
+        "ScreenshotsEnabled": true,
+        "UpdatorEnabled": false,
+        "Blacklist": [
+            "Myon_Animations2022"
+        ],
+        "Passcode": "UGFzc2NvZGVWZW50bw==",
+        "UnsupportedVersions": [
+            "1.0.0",
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.4.1",
+            "1.2.1",
+            "1.4.2",
+            "1.0.1",
+            "1.2.1",
+            "1.2.2",
+            "1.2.3",
+            "1.5.2"
+        ],
+        "LastSupportedVersion": "1.5.2",
+        "UpdateLink": "https://www.roblox.com/games/8438907120/Under-Remodels-5th-Commerce-Tower",
+        "Support": "https://www.roblox.com/games/6275532991/Staff-pass-Elevator-Testing-OFFICIAL"
+    }
 }
